@@ -11,3 +11,7 @@
 ## Get the random number
 
 ![Output](https://github.com/aratrika1996/BCDV-4028-Assignments/blob/main/Lab%2005/RequestNumber.png)
+
+## Transaction Output
+
+![Transaction Output](https://github.com/aratrika1996/BCDV-4028-Assignments/blob/main/Lab%2005/Transaction.png)
